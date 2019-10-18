@@ -1,0 +1,11 @@
+Model	Hip	Wrist	Both				Feature	Importance
+RF	62.76	55.13	75.1				hip angle 	0.251
+GBT	56.74	45.08	68.19				hip mean	0.16
+SVC	37.66	35.27	46.09				hip sd	0.135
+NN	36.4	31.19	44.81				hip angle sd	0.122
+Linear SVC	17.11	7.07	10.67				wrist angle	0.116
+KNN	32.2	30.35	54.29				wrist sd	0.081
+							wrist angle sd	0.075
+RF Model	Hip	Wrist	Both				wrist mean	0.061
+Joint	87.57	77.16	90.28					
+Muscle Groups	75.19	58.08	81.9					
